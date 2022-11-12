@@ -1,4 +1,4 @@
-# [**Image-Security-by-Triple-DES-Final-Year-Project**](https://vatshayan-technologies.mojo.page/triple-des-project)
+# [**Image-Security-by-Triple-DES**](https://vatshayan-technologies.mojo.page/triple-des-project)
 
 **PROJECT GOAL:  ENCRYPTION & DECRYPTION of IMAGE through Triple DES**
 
@@ -39,24 +39,3 @@ Decipher the second result using the first key
 ### Youtube Video of this Project: https://www.youtube.com/watch?v=Z8qna_22WTU
 
 
-### Hi there 👋
-
-You Can use this Beautiful Project for your college Project and get good marks too. 
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper(Base Papers) of this Project.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-<!--### Download all Files with Full Video Explanation : **[LINK](https://vatshayan-technologies.mojo.page/triple-des-project)**
